@@ -1,0 +1,20 @@
+{
+  "name": "marvel-rivals-overlay",
+  "version": "1.0.0",
+  "description": "Overlay for marvel rivals",
+  "homepage": "https://github.com/isamnagi/marvel_rivals_overlay#readme",
+  "bugs": {
+    "url": "https://github.com/isamnagi/marvel_rivals_overlay/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isamnagi/marvel_rivals_overlay.git"
+  },
+  "license": "ISC",
+  "author": "Isam Nagi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
